@@ -1,3 +1,4 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3BF754&width=435&lines=Bem-vindo+ao+meu+Git+Hub!!;DaniBarreto-dev)](https://git.io/typing-svg)
 
 ### Technologies and tools:
